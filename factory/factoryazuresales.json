@@ -1,0 +1,15 @@
+{
+	"name": "factoryazuresales",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e6570f07-f966-43d2-9512-0194370837c9",
+		"tenantId": "069d9215-b865-4de7-98b3-b62c96a41e2a"
+	}
+}
